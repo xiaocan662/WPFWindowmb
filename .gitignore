@@ -1,0 +1,23 @@
+## 编译输出
+bin/
+obj/
+
+## IDE
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## 构建结果
+*.exe
+*.dll
+*.pdb
+*.cache
+
+## 临时文件
+*~
+Thumbs.db
+Desktop.ini
+*ym.md
+*.py
