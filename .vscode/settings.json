@@ -1,0 +1,5 @@
+{
+    "git.enabled": false,
+    "git.autoRepositoryDetection": false,
+    "git.ignoreMissingGitWarning": true
+}
